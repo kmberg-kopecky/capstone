@@ -8,8 +8,11 @@ myenv\Scripts\activate
 # macOS and Linux
 source myenv/bin/activate
 
-pip install numpy
-pip install matplotlib.pyplot
-pip install pandas
+
+numpy==2.0.0
+matplotlib==3.9.1
+pandas==2.2.2
+sklearn==1.5.1
+
 
 
