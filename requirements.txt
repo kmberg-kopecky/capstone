@@ -1,12 +1,12 @@
 # Create a virtual environment 
-python -m venv myenv
+# python -m venv myenv
 
 # Activate the virtual environment
 
 # Windows
-myenv\Scripts\activate
+# myenv\Scripts\activate
 # macOS and Linux
-source myenv/bin/activate
+# source myenv/bin/activate
 
 
 numpy==2.0.0
